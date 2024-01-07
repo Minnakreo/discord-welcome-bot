@@ -3,12 +3,12 @@
         "AUTHORS": [],
         "ACTIVITY_TEXT": "Polemikal Voice System",
         "GUILD_ID": "",
-        "VOICE_CHANNEL": "",
+        "VOICE_CHANNEL": "1140762084133580832",
         "MIN_STAFF_ROLE": ""
     },
     "FILES": {
         "WELCOME": "default_files/<welcome-voice>.mp3",
         "STAFF": "default_files/<staff-voice>.mp3"
     },
-    "TOKEN": "BOT_TOKEN"
+    "TOKEN": "MTE5MzU2MjcyNjQ0NjkyMzg4Ng.GH6LDT.eO3_blmwscOwvPVdDFF1hoTvhmqssYAFlemuNA"
 }
